@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.08709273
+  lightness: 0.7136592
+  brandStrength: 0.208308
+  brandColors:
+    - '#152130'
+    - '#EAD8C6'
+    - '#90806F'
+    - '#E09A89'
+    - '#B32A40'
+  rhythmicContrast: 1
+typography_spectrum: 0.5588973
+name: 'PHP '
